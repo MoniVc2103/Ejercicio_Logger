@@ -1,0 +1,32 @@
+abr 30, 2024 7:07:39 P. M. gestionactores.GestionDeActores existeId
+SEVERE: existeId - GestionActores - iniciado
+abr 30, 2024 7:07:53 P. M. gestionactores.Actor <init>
+WARNING: Constructor - Actor - iniciado
+abr 30, 2024 7:07:53 P. M. gestionactores.Actor <init>
+WARNING: Constructor - Actor - finalizado
+abr 30, 2024 7:08:03 P. M. gestionactores.GestionDeActores existeId
+SEVERE: existeId - GestionActores - iniciado
+abr 30, 2024 7:08:26 P. M. gestionactores.PerroActor <init>
+SEVERE: Constructor - PerroActor - finalizado
+abr 30, 2024 7:08:26 P. M. gestionactores.PerroActor calcularSueldo
+SEVERE: calcularSueldo - PerroActor - iniciado
+abr 30, 2024 7:08:26 P. M. gestionactores.PerroActor calcularSueldo
+SEVERE: calcularSueldo - PerroActor - iniciado
+abr 30, 2024 7:08:26 P. M. gestionactores.PerroActor calcularSueldo
+SEVERE: calcularSueldo - PerroActor - iniciado
+abr 30, 2024 7:17:54 P. M. gestionactores.GestionDeActores existeId
+SEVERE: existeId - GestionActores - iniciado
+abr 30, 2024 7:18:08 P. M. gestionactores.Actor <init>
+WARNING: Constructor - Actor - iniciado
+abr 30, 2024 7:18:08 P. M. gestionactores.Actor <init>
+WARNING: Constructor - Actor - finalizado
+abr 30, 2024 7:18:12 P. M. gestionactores.GestionDeActores existeId
+SEVERE: existeId - GestionActores - iniciado
+abr 30, 2024 7:18:24 P. M. gestionactores.PerroActor <init>
+SEVERE: Constructor - PerroActor - finalizado
+abr 30, 2024 7:18:24 P. M. gestionactores.PerroActor calcularSueldo
+SEVERE: calcularSueldo - PerroActor - iniciado
+abr 30, 2024 7:18:24 P. M. gestionactores.PerroActor calcularSueldo
+SEVERE: calcularSueldo - PerroActor - iniciado
+abr 30, 2024 7:18:24 P. M. gestionactores.PerroActor calcularSueldo
+SEVERE: calcularSueldo - PerroActor - iniciado
